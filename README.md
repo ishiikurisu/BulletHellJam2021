@@ -51,7 +51,7 @@ bullets and another character that shoots bullets.
 Stuff I would like to be done ASAP so I get started testing and iterating:
 
 - [x] Draw HUD indicating how many lives and the cooldown for star power
-- [ ] Allow player to die from taking too many bullets
+- [x] Allow player to die from taking too many bullets
 - [ ] Allow player to use star power every 10 seconds for a given amount of time
 - [ ] Allow player to kill enemies by using star power
 

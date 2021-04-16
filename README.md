@@ -33,11 +33,27 @@ I don't have right now
 
 ## Notes
 
+### Devlog
+
+#### 2021-04-15
+
 I will start developing the "Fueled by Hate" idea. I will use TIC80 right now
 but I will probably need to check if I can spawn that many sprites on screen.
 
 Should this be a platformer in the first place? I think I will try to nail the
 idea first then I see if I should make this a platformer or not.
+
+By the end of the day, I was able to make a character that walks around and take
+bullets and another character that shoots bullets.
+
+#### 2021-04-16
+
+Stuff I would like to be done ASAP so I get started testing and iterating:
+
+- [ ] Draw HUD indicating how many lives and the cooldown for star power
+- [ ] Allow player to die from taking too many bullets
+- [ ] Allow player to use star power every 10 seconds for a given amount of time
+- [ ] Allow player to kill enemies by using star power
 
 ### Specs
 

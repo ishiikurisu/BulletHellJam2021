@@ -50,12 +50,24 @@ bullets and another character that shoots bullets.
 
 Stuff I would like to be done ASAP so I get started testing and iterating:
 
-- [ ] Draw HUD indicating how many lives and the cooldown for star power
+- [x] Draw HUD indicating how many lives and the cooldown for star power
 - [ ] Allow player to die from taking too many bullets
 - [ ] Allow player to use star power every 10 seconds for a given amount of time
 - [ ] Allow player to kill enemies by using star power
 
+I should also change the bullets speed from a number to a function. This way,
+I can change their trajectory over time.
+
 ### Specs
+
+Player:
+
+- `x`: X position
+- `y`: Y position
+- `s2`: how many lives the player have
+- `s2cd`: invencibility time
+- `sp`: flag for checking if star power is activated
+- `spcd`: star power cooldown
 
 Enemy:
 

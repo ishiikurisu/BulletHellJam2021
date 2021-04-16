@@ -52,7 +52,7 @@ Stuff I would like to be done ASAP so I get started testing and iterating:
 
 - [x] Draw HUD indicating how many lives and the cooldown for star power
 - [x] Allow player to die from taking too many bullets
-- [ ] Allow player to use star power every 10 seconds for a given amount of time
+- [x] Allow player to use star power every 10 seconds for a given amount of time
 - [ ] Allow player to kill enemies by using star power
 
 I should also change the bullets speed from a number to a function. This way,
@@ -65,7 +65,7 @@ Player:
 - `x`: X position
 - `y`: Y position
 - `s2`: how many lives the player have
-- `s2cd`: invencibility time
+- `s2cd`: invincibility time
 - `sp`: flag for checking if star power is activated
 - `spcd`: star power cooldown
 
@@ -77,6 +77,7 @@ Enemy:
 - `ty`: Y position
 - `cd`: cooldown
 - `s`: sprite code
+- `a`: flag to indicate whether enemy is alive of not
 
 Bullet:
 

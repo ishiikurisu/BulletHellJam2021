@@ -65,8 +65,8 @@ improve over time. This means:
 
 - [x] Implement splash screen
 - [x] Implement tutorial
-- [ ] Implement level counter screen
-- [ ] Allow players to start next level
+- [x] Implement level counter screen
+- [x] Allow players to start next level
 - [ ] Implement credits screen
 
 I decided to include the tutorial on the splash screen. The idea

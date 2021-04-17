@@ -63,11 +63,15 @@ I can change their trajectory over time.
 Today I would like to turn that into an actual game that I can
 improve over time. This means:
 
-- [ ] Implement splash screen
-- [ ] Implement tutorial
+- [x] Implement splash screen
+- [x] Implement tutorial
 - [ ] Implement level counter screen
 - [ ] Allow players to start next level
 - [ ] Implement credits screen
+
+I decided to include the tutorial on the splash screen. The idea
+is to make this a pretty serious game and I think this is going
+to be a good part of the aesthetics of the game.
 
 ### Specs
 

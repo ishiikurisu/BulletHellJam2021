@@ -73,6 +73,15 @@ I decided to include the tutorial on the splash screen. The idea
 is to make this a pretty serious game and I think this is going
 to be a good part of the aesthetics of the game.
 
+Now, I would like to make the game fun! That's what it should be
+about, right?
+
+- [ ] Create interesting patterns with bullets
+- [ ] Allow enemies to move around
+
+Regarding creating bullet patterns: don't forget yesterday's
+suggestions!
+
 ### Specs
 
 Player:

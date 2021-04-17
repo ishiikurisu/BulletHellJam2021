@@ -53,10 +53,21 @@ Stuff I would like to be done ASAP so I get started testing and iterating:
 - [x] Draw HUD indicating how many lives and the cooldown for star power
 - [x] Allow player to die from taking too many bullets
 - [x] Allow player to use star power every 10 seconds for a given amount of time
-- [ ] Allow player to kill enemies by using star power
+- [x] Allow player to kill enemies by using star power
 
 I should also change the bullets speed from a number to a function. This way,
 I can change their trajectory over time.
+
+#### 2021-04-17
+
+Today I would like to turn that into an actual game that I can
+improve over time. This means:
+
+- [ ] Implement splash screen
+- [ ] Implement tutorial
+- [ ] Implement level counter screen
+- [ ] Allow players to start next level
+- [ ] Implement credits screen
 
 ### Specs
 

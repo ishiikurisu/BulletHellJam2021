@@ -76,8 +76,8 @@ to be a good part of the aesthetics of the game.
 Now, I would like to make the game fun! That's what it should be
 about, right?
 
-- [ ] Create interesting patterns with bullets
-- [ ] Allow enemies to move around
+- [x] Create interesting patterns with bullets
+- [x] Allow enemies to move around
 
 Regarding creating bullet patterns: don't forget yesterday's
 suggestions!
@@ -95,13 +95,16 @@ Player:
 
 Enemy:
 
-- `d`: time delay before appearing
-- `p`: bullet pattern to be used
-- `tx`: X position
-- `ty`: Y position
-- `cd`: cooldown
-- `s`: sprite code
-- `a`: flag to indicate whether enemy is alive of not
+- `cx`: X coordinate focus
+- `cy`: Y coordinate focus
+- `dx`: X coordinate distance
+- `dy`: Y coordinate distance
+- `fx`: X coordinate frequency
+- `fy`: Y coordinate frequency
+- `s`: sprite id
+- `a`: flag to check whether enemy is active or not
+- `x`: X coordinate position
+- `y`: Y coordinate position
 
 Bullet:
 

@@ -90,7 +90,7 @@ I would like to make the game longer and more presentable.
 - [ ] Include at least 3 more levels
 - [x] Improve animations
 - [x] Improve backgrounds
-- [ ] Improve tutorial text to mention how to move
+- [x] Improve tutorial text to mention how to move
 
 One way of improving animations is to change the theme of the game a little
 bit. The first thing that came to mind was to convert this to another

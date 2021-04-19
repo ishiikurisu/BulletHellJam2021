@@ -82,6 +82,22 @@ about, right?
 Regarding creating bullet patterns: don't forget yesterday's
 suggestions!
 
+#### 2021-04-19
+
+Today is Monday, so you all know what it means: let's get back to work. Today
+I would like to make the game longer and more presentable.
+
+- [ ] Include at least 3 more levels
+- [ ] Improve animations
+- [ ] Improve backgrounds
+- [ ] Improve tutorial text to mention how to move
+
+One way of improving animations is to change the theme of the game a little
+bit. The first thing that came to mind was to convert this to another
+[Honey the Cat](https://tic80.com/play?cart=1734) game. Hate mode would mean
+Honey is ready to attack her enemies. Talking about enemies, they could rats
+throwing something at her, for instance. It could be water, bullets, trash...
+
 ### Specs
 
 Player:
@@ -92,6 +108,7 @@ Player:
 - `s2cd`: invincibility time
 - `sp`: flag for checking if star power is activated
 - `spcd`: star power cooldown
+- `d`: direction
 
 Enemy:
 
@@ -105,6 +122,7 @@ Enemy:
 - `a`: flag to check whether enemy is active or not
 - `x`: X coordinate position
 - `y`: Y coordinate position
+- `d`: direction
 
 Bullet:
 

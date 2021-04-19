@@ -87,7 +87,7 @@ suggestions!
 Today is Monday, so you all know what it means: let's get back to work. Today
 I would like to make the game longer and more presentable.
 
-- [ ] Include at least 3 more levels
+- [x] Include more levels
 - [x] Improve animations
 - [x] Improve backgrounds
 - [x] Improve tutorial text to mention how to move

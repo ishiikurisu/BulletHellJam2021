@@ -1,6 +1,8 @@
 # Bullet Hell Jam 2021
 
-[My stuff related to the #bullethelljam](https://itch.io/jam/bullet-jam-2021).
+[My stuff](https://liberdade.itch.io/fueled-by-honey)
+related to the
+[#bullethelljam](https://itch.io/jam/bullet-jam-2021).
 
 > 10 SECONDS
 
@@ -95,8 +97,16 @@ I would like to make the game longer and more presentable.
 One way of improving animations is to change the theme of the game a little
 bit. The first thing that came to mind was to convert this to another
 [Honey the Cat](https://tic80.com/play?cart=1734) game. Hate mode would mean
-Honey is ready to attack her enemies. Talking about enemies, they could rats
-throwing something at her, for instance. It could be water, bullets, trash...
+Honey is ready to attack her enemies. Talking about enemies, they could be rats
+throwing something at her. For instance, it could be water, bullets, trash...
+
+After improving the game a lot today, I think there is one last thing before
+I can consider this game somehow complete: sound!
+
+- [ ] Compose theme song for main menu
+- [ ] Include sound effect when bullets are shot
+- [ ] Include sound effect when Honey is hurt
+- [ ] Include sound effect when anger mode is activated
 
 ### Specs
 

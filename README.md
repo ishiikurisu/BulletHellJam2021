@@ -88,7 +88,7 @@ Today is Monday, so you all know what it means: let's get back to work. Today
 I would like to make the game longer and more presentable.
 
 - [ ] Include at least 3 more levels
-- [ ] Improve animations
+- [x] Improve animations
 - [ ] Improve backgrounds
 - [ ] Improve tutorial text to mention how to move
 

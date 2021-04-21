@@ -111,9 +111,11 @@ I can consider this game somehow complete: sound!
 Playing sound effects when bullets are shot makes the game unbearable to
 play. The same applies for anger mdoe.
 
+#### 2021-04-20
+
 Feedback:
 
-- [ ] Make bullets bigger
+- [x] Make bullets bigger
 - [ ] Add more levels
 - [ ] Maybe include a boss level
 

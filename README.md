@@ -103,10 +103,19 @@ throwing something at her. For instance, it could be water, bullets, trash...
 After improving the game a lot today, I think there is one last thing before
 I can consider this game somehow complete: sound!
 
-- [ ] Compose theme song for main menu
-- [ ] Include sound effect when bullets are shot
-- [ ] Include sound effect when Honey is hurt
-- [ ] Include sound effect when anger mode is activated
+- [x] Compose theme song for main menu
+- [ ] ~~Include sound effect when bullets are shot~~
+- [x] Include sound effect when Honey is hurt
+- [ ] ~~Include sound effect when anger mode is activated~~
+
+Playing sound effects when bullets are shot makes the game unbearable to
+play. The same applies for anger mdoe.
+
+Feedback:
+
+- [ ] Make bullets bigger
+- [ ] Add more levels
+- [ ] Maybe include a boss level
 
 ### Specs
 

@@ -119,6 +119,14 @@ Feedback:
 - [ ] Add more levels
 - [ ] Maybe include a boss level
 
+From 2021-04-22: I wasn't able to complete these two tasks on time, so
+I am removing them from the game jam release.
+
+I also am not satisfied with the music, there could be more stuff there:
+
+- [x] Play "game over" music
+- [x] Play "game finished" music
+
 #### 2021-04-22
 
 Today is delivery day! Let's be sure the game is packaged and presentable.

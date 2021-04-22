@@ -119,6 +119,12 @@ Feedback:
 - [ ] Add more levels
 - [ ] Maybe include a boss level
 
+#### 2021-04-22
+
+Today is delivery day! Let's be sure the game is packaged and presentable.
+
+- [x] Upload the game to [itch.io](https://itch.io)
+
 ### Specs
 
 Player:
